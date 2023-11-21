@@ -1,2 +1,4 @@
 # Ecommerce
-Springboot angular ecommerce project
+Springboot angular ecommerce Backend
+Stack : SpringBoot - Java - Hibernate
+
